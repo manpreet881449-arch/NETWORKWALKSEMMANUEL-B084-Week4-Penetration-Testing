@@ -1,0 +1,34 @@
+# Sensitive files
+*.sql
+*.db
+*.sqlite
+*.pdf
+*.pem
+*.key
+*.p12
+*.pfx
+*.env
+.env.*
+
+# Network capture and private evidence
+*.pcap
+*.pcapng
+*.har
+
+# Local quarantine and generated archives
+SECURITY-QUARANTINE-MEDIROZA/
+submission/
+NetworkWalks-Week4-Documentation.zip
+
+# Raw target reconnaissance and incident records
+recon/
+evidence/
+reports/
+
+# Old or backup drafts
+*.before-correction.md
+*.pre-final-check.md
+
+# Screenshots must be reviewed before publishing
+screenshots/*
+!screenshots/README.md
