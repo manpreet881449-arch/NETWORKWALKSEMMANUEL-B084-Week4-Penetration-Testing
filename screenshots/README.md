@@ -1,14 +1,15 @@
 # Week 4 Screenshots
 
-Store only reviewed, non-sensitive assignment screenshots here.
+## Purpose
+Document the Kali Linux setup, project organization, GitHub repository, and final verification.
 
-Suggested screenshots:
-1. Kali Linux project setup
-2. GitHub repository structure
-3. Local project organization
-4. Sanitized documentation layout
-5. Final project verification
+## Recommended Screenshots
 
-Do not upload target reconnaissance, patient information,
-credentials, private documents, database contents, or sensitive
-security findings.
+1. **Kali Linux Setup** – Terminal and project directory.
+2. **GitHub Repository** – Repository homepage and folder structure.
+3. **Project Organization** – Local project files and folders.
+4. **Documentation Layout** – Sanitized assignment documentation.
+5. **Final Verification** – Git commit, successful push, and clean status.
+
+## Submission Note
+Screenshots demonstrate project setup, documentation organization, and GitHub submission verification. They do not independently prove successful vulnerability testing.
